@@ -2,7 +2,7 @@
 - 👀 I’m interested in all about programation
 - 🌱 I’m currently learning C++, HTML, CSS, JavaScript, Python, SQL, PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: leo.lestienne.leo@gmail.com  | 07.76.01.66.26
+- 📫 How to reach me: leo.lestienne.leo@gmail.com  |
 
 <!---
 leolestienne/leolestienne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
